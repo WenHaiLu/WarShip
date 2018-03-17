@@ -1,0 +1,116 @@
+fileFormatVersion: 2
+guid: 3d039a510d9f9314481932c5da2d5df7
+timeCreated: 18446744011573954816
+ModelImporter:
+  serializedVersion: 21
+  fileIDToRecycleName:
+    4300000: JAP_yamato_cannon16
+    4300002: JAP_yamato_cannon39
+    4300004: JAP_yamato_cannon13
+    4300006: JAP_yamato_cannon05
+    4300008: JAP_yamato_cannon01
+    4300010: JAP_yamato_cannon02
+    4300012: JAP_yamato_cannon03
+    4300014: JAP_yamato_cannon04
+    4300016: JAP_yamato_barbette01
+    4300018: JAP_yamato_barbette02
+    4300020: JAP_yamato_barbette03
+    4300022: JAP_yamato_barbette04
+    4300024: JAP_yamato_barbette05
+    4300026: JAP_yamato_cannon07
+    4300028: JAP_yamato_cannon10
+    4300030: JAP_yamato_cannon14
+    4300032: JAP_yamato_cannon37
+    4300034: JAP_yamato_cannon27
+    4300036: JAP_yamato_cannon30
+    4300038: JAP_yamato_cannon38
+    4300040: JAP_yamato_cannon12
+    4300042: JAP_yamato_cannon11
+    4300044: JAP_yamato_cannon09
+    4300046: JAP_yamato_cannon08
+    4300048: JAP_yamato_cannon36
+    4300050: JAP_yamato_cannon18
+    4300052: JAP_yamato_cannon40
+    4300054: JAP_yamato_cannon31
+    4300056: JAP_yamato_cannon32
+    4300058: JAP_yamato_cannon33
+    4300060: JAP_yamato_cannon34
+    4300062: JAP_yamato_cannon35
+    4300064: JAP_yamato_cannon23
+    4300066: JAP_yamato
+    4300068: JAP_yamato_cannon17
+  materials:
+    importMaterials: 1
+    materialName: 3
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 0.01
+    meshCompression: 0
+    addColliders: 0
+    importVisibility: 0
+    importBlendShapes: 1
+    importCameras: 0
+    importLights: 0
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 0
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 4
+    normalCalculationMode: 0
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 1
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
